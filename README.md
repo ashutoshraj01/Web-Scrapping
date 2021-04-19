@@ -5,9 +5,9 @@
 - Node.js
 
 ## Packages used:-
-i)  request and request-promise  --> used to download web sites.
-ii)  cheerio --> used for using jQuery inside Node.js
-iii) fs -> For doing file operations.
+-  request and request-promise  ⟶  used to download web sites.
+-  cheerio ⟶  used for using jQuery inside Node.js
+- fs ⟶  For doing file operations.
 
 ## Installing Yarn
 - sudo apt remove cmdtest
