@@ -31,3 +31,6 @@
 ## 
 - If you want your scrapped data(must be in array of JavaScript objects) to get stored in csv file, Use the following link to get it done.
 ⟶ https://www.npmjs.com/package/objects-to-csv
+
+### If you are having a bad network and your request drops. You can try "requestretry" package. It will try for hitting the server for several times. Attempts and     Delays can also be defined.
+⟶ https://github.com/FGRibreau/node-request-retry
