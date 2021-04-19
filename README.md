@@ -29,5 +29,5 @@
 - You can add the url of website you want to scrap in the config.js file.
 
 ## 
-- If you want your scrapped data(must be in array of JavaScript objects) to get stored in csv file, Use the following link:-
-- https://www.npmjs.com/package/objects-to-csv
+- If you want your scrapped data(must be in array of JavaScript objects) to get stored in csv file, Use the following link to get it done.
+⟶ https://www.npmjs.com/package/objects-to-csv
