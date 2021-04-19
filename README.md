@@ -5,8 +5,8 @@
 - Node.js
 
 ## Packages used:-
--  request and request-promise  = used to download web sites.
--  cheerio = used for using jQuery inside Node.js
+-  request and request-promise  --> used to download web sites.
+-  cheerio --> used for using jQuery inside Node.js
 
 ## Installing Yarn
 - sudo apt remove cmdtest
@@ -23,3 +23,6 @@
 - Run "node index.js" inside the terminal.
 - You can check the data scrapped inside "scrapedData.html" file, if not you can check for  
   error inside the console.
+
+##
+- You can add the url of website you want to scrap in the config.js file.
